@@ -6,7 +6,10 @@ import Room from "./Room";
 import './App.css'
 
 
-// app.jsx ka use hota  hai jb ki konsa pge kha route horha isme bs yh kaam horha hota hai 
+// app.jsx ka use hota  hai jb ki konsa pge kha route horha isme bs yh kaam horha hota hai
+
+
+// phela konsa page khulega
 function App() {
   return (
     <>
