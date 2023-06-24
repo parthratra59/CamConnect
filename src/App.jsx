@@ -4,6 +4,9 @@ import { Link, Routes,Route } from "react-router-dom";
 import Home from './Home'
 import Room from "./Room";
 import './App.css'
+
+
+// app.jsx ka use hota  hai jb ki konsa pge kha route horha isme bs yh kaam horha hota hai 
 function App() {
   return (
     <>
