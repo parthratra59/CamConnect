@@ -1,19 +1,8 @@
 # CamConnect 🎥 📞
 
-### About the Application
+## About the Application
 
 This video call web app is designed to empower remote teams to collaborate more effectively. It provides a seamless video conferencing experience with integrated features such as screen sharing, a chat section, support for multiple participants, and customizable layout options. The app is built using React.js, vanilla CSS, and utilizes the ZEGOCLOUD Platform and Firebase for enhanced functionality.
-
-
-
- ### 🚀 Live Deployed Link: https://camconnect-2064e.web.app/
-
-
- ### 📽️ Demo Video: 
-
-https://github.com/ParthRatra/CamConnect/assets/90822015/2af1bb4e-8eaa-40bf-9df2-eec96970b01e
-
-
 
 ### Features
 
@@ -25,6 +14,12 @@ https://github.com/ParthRatra/CamConnect/assets/90822015/2af1bb4e-8eaa-40bf-9df2
 
 🎨 Customizable Layout: Tailor the layout of your video conferencing interface to suit your preferences. Arrange video feeds, chat, and shared screens for an optimized collaboration experience.
 
+ ## 🚀 Live Deployed Link: https://camconnect-2064e.web.app/
+
+
+ ## 📽️ Demo Video: 
+
+https://github.com/ParthRatra/CamConnect/assets/90822015/2af1bb4e-8eaa-40bf-9df2-eec96970b01e
 
 
 ### API Secret and ID
@@ -51,7 +46,7 @@ const ZEGO_API_ID = 'your_api_id_here'
 ```
 
 
-### Getting Started Locally
+### Getting Started Locally 🚀
 
 To run the project locally, follow these steps:
 
