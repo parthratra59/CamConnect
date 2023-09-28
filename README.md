@@ -9,11 +9,9 @@ This video call web app is designed to empower remote teams to collaborate more 
  ### 🚀 Live Deployed Link: https://camconnect-2064e.web.app/
 
 
-
  ### 📽️ Demo Video: 
 
 https://github.com/ParthRatra/CamConnect/assets/90822015/2af1bb4e-8eaa-40bf-9df2-eec96970b01e
-
 
 
 
@@ -26,6 +24,7 @@ https://github.com/ParthRatra/CamConnect/assets/90822015/2af1bb4e-8eaa-40bf-9df2
 👥 Support for Multiple Participants: Host productive meetings with support for multiple participants. Collaborate with team members from different locations in real-time.
 
 🎨 Customizable Layout: Tailor the layout of your video conferencing interface to suit your preferences. Arrange video feeds, chat, and shared screens for an optimized collaboration experience.
+
 
 
 ### API Secret and ID
@@ -49,5 +48,7 @@ To use this video call web app, you will need to create a ZEGOCLOUD account and 
 ```javascript
 const ZEGO_API_SECRET = 'your_api_secret_here';
 const ZEGO_API_ID = 'your_api_id_here'
+```
 
-Getting Started Locally
+
+###Getting Started Locally
