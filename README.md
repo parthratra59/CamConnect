@@ -79,7 +79,7 @@ npm install
 npm install
 ```
 
-This will start the project locally, and you can access it in your web browser by visiting http://localhost:3000.
+This will start the project locally and you can access it in your web browser by visiting http://localhost:3000
 
 
 
