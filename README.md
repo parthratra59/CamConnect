@@ -52,3 +52,10 @@ const ZEGO_API_ID = 'your_api_id_here'
 
 
 ### Getting Started Locally
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/video-call-web-app.git
