@@ -43,6 +43,16 @@ https://github.com/ParthRatra/CamConnect/assets/90822015/2af1bb4e-8eaa-40bf-9df2
 
 7. In the video call web app, open the src/config.js file, and paste the API Secret and ID values into the following variables:
 
+const ZEGO_API_SECRET = 'your_api_secret_here';
+const ZEGO_API_ID = 'your_api_id_here';
+
+Now you're ready to use the video call web app with your ZEGOCLOUD credentials.
+
+### Getting Started Locally
+
+1. Clone this repository to your local machine:
+
+
 
 
 
