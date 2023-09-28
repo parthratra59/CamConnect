@@ -64,7 +64,7 @@ git clone https://github.com/ParthRatra/CamConnect.git
 2. Navigate to the project directory:
 
 ```bash
-cd camConnect
+cd <projectdictonary>
 ```
 
 3. Install the required dependencies:
