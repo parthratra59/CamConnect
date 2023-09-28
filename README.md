@@ -49,13 +49,3 @@ To use this video call web app, you will need to create a ZEGOCLOUD account and 
 ```javascript
 const ZEGO_API_SECRET = 'your_api_secret_here';
 const ZEGO_API_ID = 'your_api_id_here';
-
-
-
-
-
-
-
-
-
-
