@@ -1,4 +1,4 @@
-# Camconnect 🎥 📞
+# CamConnect 🎥 📞
 
 ### About the Application
 
