@@ -29,7 +29,10 @@ https://github.com/ParthRatra/CamConnect/assets/90822015/2af1bb4e-8eaa-40bf-9df2
 
 
 ### API Secret and ID
-1. Go to the ZEGOCLOUD website and create an account.
+
+To use this video call web app, you will need to create a ZEGOCLOUD account and obtain an API secret and ID. Follow these steps to set up your API credentials:
+
+1. Go to the [ZEGOCLOUD website](https://www.zegocloud.com/) and create an account.
 
 2. After creating an account, access the Project Management console.
 
@@ -41,12 +44,11 @@ https://github.com/ParthRatra/CamConnect/assets/90822015/2af1bb4e-8eaa-40bf-9df2
 
 6. On the Project Details page, copy the API Secret and API ID values.
 
-7. In the video call web app, open the src/config.js file, and paste the API Secret and ID values into the following variables:
+7. In the video call web app, open the `src/config.js` file, and paste the API Secret and ID values into the following variables:
 
+```javascript
 const ZEGO_API_SECRET = 'your_api_secret_here';
 const ZEGO_API_ID = 'your_api_id_here';
-
-Now you're ready to use the video call web app with your ZEGOCLOUD credentials.
 
 ### Getting Started Locally
 
