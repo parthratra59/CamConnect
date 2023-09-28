@@ -76,7 +76,7 @@ npm install
 4. Start the project locally:
 
 ```bash
-npm install
+npm start
 ```
 
 This will start the project locally and you can access it in your web browser by visiting http://localhost:3000
