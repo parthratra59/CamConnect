@@ -58,4 +58,29 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/video-call-web-app.git
+git clone https://github.com/ParthRatra/CamConnect.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd camConnect
+```
+
+3. Install the required dependencies:
+
+```bash
+npm install
+```
+
+4. Start the project locally:
+
+```bash
+npm install
+```
+
+This will start the project locally, and you can access it in your web browser by visiting http://localhost:3000.
+
+
+
+
